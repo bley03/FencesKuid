@@ -18,7 +18,7 @@ Alternativa gratuita a Stardock Fences 6, construida con WPF/.NET 8.
 
 ### 1. Abrir el proyecto
 1. Abre **Visual Studio 2022**.
-2. Selecciona **Abrir una carpeta** → elige la carpeta `FencesWPF`.
+2. Selecciona **Abrir una carpeta** → elige la carpeta `FencesWPF` si no existe creala con ese mismo nombre.
 3. O crea una nueva solución: **Archivo → Nuevo → Proyecto desde código existente**.
 
 ### 2. Verificar la plataforma
